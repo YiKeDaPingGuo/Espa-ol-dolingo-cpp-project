@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>aud/neutral/Dinero.wav</file>
+        <file>aud/neutral/Gracias.wav</file>
+        <file>aud/neutral/Helado.wav</file>
+        <file>aud/neutral/Hola.wav</file>
+        <file>aud/neutral/Orden.wav</file>
+        <file>aud/neutral/Paella.wav</file>
+        <file>aud/neutral/Por favor.wav</file>
+        <file>aud/neutral/Postre.wav</file>
+        <file>aud/neutral/Taco.wav</file>
+        <file>aud/neutral/Cafe.wav</file>
+        <file>aud/neutral/Menu.wav</file>
+        <file>aud/neutral/Te.wav</file>
+        <file>aud/Lily/1.wav</file>
+        <file>aud/Lily/2.wav</file>
+        <file>aud/Lily/3.wav</file>
+        <file>aud/Lily/4.wav</file>
+    </qresource>
+</RCC>
