@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>csv/article.csv</file>
+        <file>csv/dat_pronoun.csv</file>
+        <file>csv/neutral.csv</file>
+        <file>csv/obj_pronoun.csv</file>
+        <file>csv/pos_adjective.csv</file>
+        <file>csv/preposition.csv</file>
+        <file>csv/verb.csv</file>
+        <file>csv/schedule.csv</file>
+        <file>csv/choice.csv</file>
+        <file>csv/interr.csv</file>
+        <file>csv/neutralwords.csv</file>
+        <file>csv/phrase.csv</file>
+        <file>csv/punct.csv</file>
+        <file>csv/oscarVerb.csv</file>
+    </qresource>
+</RCC>
